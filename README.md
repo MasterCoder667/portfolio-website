@@ -6,7 +6,7 @@ Welcome to my personal portfolio website! This website showcases my projects, sk
 
 ## 🌐 Live Website
 
-You can view the live website here: [Muheto Niyonemera's Portfolio](https://MasterCoder667.github.io/portfolio-website/)
+You can view the live website here: [Muheto Niyonemera's Portfolio](https://mastercoder667.github.io/portfolio-website/)
 
 ---
 
