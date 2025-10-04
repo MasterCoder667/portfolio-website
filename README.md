@@ -13,6 +13,7 @@ This portfolio highlights:
 - **Personal Information:** About me, skills, and career goals.
 - **Projects:** Real-world projects I have built, including:
   1. **BuyRentRwanda:** A fully deployed real estate website with active clients globally.
+  2. **Smart Bill Manager:** A full stack web application that manages subscriptions and bills for users.
   2. **AES vs RSA Encryption Comparison:** A Python project comparing encryption algorithms.
   3. **AI-Powered Property Recommender (In Progress):** An AI system recommending properties based on user preferences.
 - **Contact:** Links to email, LinkedIn, and GitHub for networking and collaboration.
